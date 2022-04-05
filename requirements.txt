@@ -1,0 +1,2 @@
+tensorflow
+gym[atari,accept-rom-license]
