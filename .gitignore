@@ -19,3 +19,7 @@ venv.bak/
 
 # Roms
 roms/
+weights/
+
+# pycache
+__pycache__
